@@ -1,0 +1,6 @@
+classification,closedPnL_count,closedPnL_sum,closedPnL_mean,is_profitable_mean
+Extreme Fear,992,259088.92,261.18,0.3
+Extreme Greed,4126,234731.12,56.89,0.24
+Fear,9317,1584996.35,170.12,0.4
+Greed,7748,857539.78,110.68,0.37
+Neutral,5749,653342.85,113.64,0.47
